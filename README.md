@@ -8,7 +8,10 @@ _____
 ### Code
 1. ViTPose is a branch of the original repository containing our modification to the evaluation software and our configuration files.
 2. `Get Zebras Keypoints.ipynb` is the python notebook that we used to get the keypoints from the daata generated with GRADE. You can find the data in the "Additional Downloads" section of the [website](https://zebrapose.is.tue.mpg.de).
-3. `scale_and_dup.ipynb` is the notebook that we used to scale the images as described in the paper. For this to work you need a coco-style json file containing segmentation masks and the original images. 
+3. `scale_and_dup.ipynb` is the notebook that we used to scale the images as described in the paper. For this to work you need a coco-style json file containing segmentation masks and the original images.
+
+To run the evaluations use the instructions of the ViTPose/YOLOv5. For ViTPose we have also some handy script. We always used the default parameters.
+
 ______
 ### License
 By using this released software you agree to adhere to the [license](https://zebrapose.is.tue.mpg.de/license.html) terms.
