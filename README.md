@@ -12,6 +12,7 @@ _____
 
 To run the evaluations use the instructions of the ViTPose/YOLOv5. For ViTPose we have also some handy script. We always used the default parameters.
 
+Yolov5 was checked out at commit `3e58c481`
 ______
 ### License
 By using this released software you agree to adhere to the [license](https://zebrapose.is.tue.mpg.de/license.html) terms.
